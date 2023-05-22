@@ -58,5 +58,5 @@ There is no need to keep the credits, it is your choice if you respect the work 
 
 ## Support
 
-For support, email adrian.tandara05@gmail.com or add on discord ``` Adrian_#6651```.
+For support, email adrian.tandara05@gmail.com or add on discord ```Adrian_#6651```.
 
