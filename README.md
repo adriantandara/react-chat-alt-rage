@@ -10,15 +10,10 @@
 
 ## Installation
 
-Go to ```frontend``` folder and use this command (only node.js):
+Go to ```frontend``` folder and use this command:
 
 ```bash
-npx create-react-app chat
-```
-
-Add on ```src``` folder chat version (rage | alt) and use this command on chat folder (only node.js):
-```bash
-npm install sass framer-motion react-icons 
+npm install
 ```
 
 After installation you can go to the index.js file and make the following changes:
